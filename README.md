@@ -133,13 +133,13 @@
 </table>
 
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=f7db5d)
-![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
+### Code
+![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=f7db5d&color=326998)
+![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=6aa6f8)
 ![Terraform](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=713dad)
 ![Django](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=0c4b33)
 ![MySQL](https://img.shields.io/badge/MySql-informational?style=flat&logo=mysql&logoColor=white&color=00758f)
-![SQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 
 ### Tools and Services
 ![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=010409)
