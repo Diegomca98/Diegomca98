@@ -1,4 +1,4 @@
-# Hi there 🤙
+# Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Call Me Hand Medium-Light Skin Tone" width="25" height="25" />
 
 <br>
 <div style="text-align: center;">
@@ -15,11 +15,25 @@
 <br>
 
 > Hey! My name is Diego Enríquez, I speak Spanish (Native), English (Advanced), Italian (Intermediate) languages at different levels, I've  been working as an IT specialist since 2018, working from IT support to software development using Python, JS, PHP, SQL and some of their frameworks.
+>
+> **In my free time I like:**
+>
+> [![Reading](https://img.shields.io/badge/Reading-%F0%9F%93%9A-a6a6f8)](https://en.wikipedia.org/wiki/Reading)
+[![Playing Guitar](https://img.shields.io/badge/Playing_Guitar-%F0%9F%8E%B8-lightpurple?color=713dad)](https://en.wikipedia.org/wiki/Guitar)
+[![Gaming](https://img.shields.io/badge/Gaming-%F0%9F%8E%AE-lightpurple?color=a6a6f8)](https://en.wikipedia.org/wiki/Video_game)
+[![Weight Lifting](https://img.shields.io/badge/Weight_Lifting-%F0%9F%8F%8B-lightpurple?color=713dad)](https://en.wikipedia.org/wiki/Weight_training)
+[![Jiu Jitsu](https://img.shields.io/badge/Training_Jiu_Jitsu-%F0%9F%A5%8B-lightpurple?color=a6a6f8)](https://en.wikipedia.org/wiki/Jiu-jitsu)
+[![Coffee Hopping](https://img.shields.io/badge/Coffee_Hopping-%E2%98%95-lightpurple?color=713dad)](https://en.wikipedia.org/wiki/Coffeehouse)
+[![Bar Hopping](https://img.shields.io/badge/Bar_Hopping-%F0%9F%8D%BB-lightpurple?color=a6a6f8)](https://en.wikipedia.org/wiki/Bar_hopping)
+[![Anime](https://img.shields.io/badge/Watching_Anime-%F0%9F%8D%A5-lightpurple?color=713dad)](https://en.wikipedia.org/wiki/Anime)
+[![Coding](https://img.shields.io/badge/Coding-%F0%9F%92%BB-lightpurple?color=a6a6f8)](https://en.wikipedia.org/wiki/Coding)
+[![Learning](https://img.shields.io/badge/Learning-%F0%9F%8E%93-lightpurple?color=713dad)](https://en.wikipedia.org/wiki/Learning)
 
 
-## 🔧 Technologies & Tools
 
-### Cloud Providers 
+## 🔧 Technologies & Tools 🔧
+
+### Cloud Providers
 ![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=ec912d)
 ![GCP](https://img.shields.io/badge/GCP-informational?style=flat&logo=google&logoColor=white&color=6aa6f8)
 
@@ -149,7 +163,12 @@
 ![Tensorflow](https://img.shields.io/badge/ML-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8)
 ![NLP Toolkit](https://img.shields.io/badge/ML-NLP_Toolkit-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 
-## Stats
+## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" />
+
+1. Play guitar 2. Read Videogames Go out with friends Go to the gym Train Jiu Jitsu
+
+
+## 📈 Statistics 📈
 <div style="display: flex; flex-direction: column; ">
     <div style="width: 100%; display: flex; justify-content: center;">
         <a href="https://github.com/anuraghazra/github-readme-stats" style="max-width: 100%; ">
