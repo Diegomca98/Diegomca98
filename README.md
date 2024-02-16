@@ -14,7 +14,7 @@
 </div>
 <br>
 
-> Hey! My name is Diego Enríquez, I speak Spanish (Native), English (Advanced), Italian (Intermediate) languages at different levels, I've  been working as an IT specialist since 2018, working from IT support to software development using Python, JS, PHP, SQL and some of their frameworks. **In my free time I like:**
+> **Hey! My name is Diego Enríquez, I speak Spanish (Native), English (Advanced), Italian (Intermediate) languages at different levels, I've  been working as an IT specialist since 2018, working from IT support to software development using Python, JS, PHP, SQL and some of their frameworks. In my free time I like:**
 >
 > [![Reading](https://img.shields.io/badge/Reading-%F0%9F%93%9A-a6a6f8)](https://en.wikipedia.org/wiki/Reading)
 [![Playing Guitar](https://img.shields.io/badge/Playing_Guitar-%F0%9F%8E%B8-lightpurple?color=713dad)](https://en.wikipedia.org/wiki/Guitar)
