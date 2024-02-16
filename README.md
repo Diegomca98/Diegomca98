@@ -42,52 +42,52 @@
   <tr>
     <td>
       <a href="https://aws.amazon.com/cloudshell/">
-        <img src="https://img.shields.io/badge/AWS-CloudShell-informational?style=flat&logo=powershell&logoColor=white&color=f9ac0a" alt="Cloud Shell">
+        <img src="https://img.shields.io/badge/CloudShell-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="Cloud Shell">
       </a>
       <br>
       <a href="https://aws.amazon.com/ec2/">
-        <img src="https://img.shields.io/badge/AWS-EC2-informational?style=flat&logo=amazon-ec2&logoColor=white&color=f9ac0a" alt="EC2">
+        <img src="https://img.shields.io/badge/EC2-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="EC2">
       </a>
     </td>
     <td>
       <a href="https://aws.amazon.com/iam/">
-        <img src="https://img.shields.io/badge/AWS-IAM-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="IAM">
+        <img src="https://img.shields.io/badge/IAM-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="IAM">
       </a>
       <br>
       <a href="https://aws.amazon.com/elasticloadbalancing/">
-        <img src="https://img.shields.io/badge/AWS-Load_Balancing-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="Load Balancers">
+        <img src="https://img.shields.io/badge/Load_Balancing-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="Load Balancers">
       </a>
     </td>
     <td>
       <a href="https://aws.amazon.com/rds/">
-        <img src="https://img.shields.io/badge/AWS-RDS-informational?style=flat&logo=amazon-rds&logoColor=white&color=f9ac0a" alt="RDS">
+        <img src="https://img.shields.io/badge/RDS-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="RDS">
       </a>
       <br>
       <a href="https://aws.amazon.com/rds/aurora/">
-        <img src="https://img.shields.io/badge/AWS-Aurora-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="Aurora">
+        <img src="https://img.shields.io/badge/Aurora-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="Aurora">
       </a>
     </td>
     <td>
       <a href="https://aws.amazon.com/elasticache/">
-        <img src="https://img.shields.io/badge/AWS-ElastiCache-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="ElastiCache">
+        <img src="https://img.shields.io/badge/ElastiCache-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="ElastiCache">
       </a>
       <br>
       <a href="https://aws.amazon.com/route53/">
-        <img src="https://img.shields.io/badge/AWS-Route_53-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="Route 53">
+        <img src="https://img.shields.io/badge/Route_53-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="Route 53">
       </a>
     </td>
     <td>
       <a href="https://aws.amazon.com/cloudfront/">
-        <img src="https://img.shields.io/badge/AWS-CloudFront-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="ElastiCache">
+        <img src="https://img.shields.io/badge/CloudFront-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="ElastiCache">
       </a>
       <br>
       <a href="https://aws.amazon.com/s3/">
-        <img src="https://img.shields.io/badge/AWS-S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=f9ac0a" alt="S3">
+        <img src="https://img.shields.io/badge/S3-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="S3">
       </a>
     </td>
     <td>
       <a href="https://aws.amazon.com/global-accelerator/">
-        <img src="https://img.shields.io/badge/AWS-Global_Accelerator-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="Global Accelerator">
+        <img src="https://img.shields.io/badge/Global_Accelerator-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="Global Accelerator">
       </a>
       <br>
     </td>
@@ -95,40 +95,40 @@
   <tr><!---->
     <td>
       <a href="https://cloud.google.com/shell/">
-        <img src="https://img.shields.io/badge/GCP-Shell-informational?style=flat&logo=powershell&logoColor=white&color=6aa6f8" alt="Cloud Shell">
+        <img src="https://img.shields.io/badge/Shell-informational?style=flat&logo=google-cloud&logoColor=white&color=6aa6f8" alt="Cloud Shell">
       </a>
       <a href="https://cloud.google.com/kubernetes-engine/">
-        <img src="https://img.shields.io/badge/GCP-GKE-informational?style=flat&logo=kubernetes&logoColor=white&color=6e9ff7" alt="GKE">
+        <img src="https://img.shields.io/badge/GKE-informational?style=flat&logo=google-cloud&logoColor=white&color=6e9ff7" alt="GKE">
       </a>
     </td>
     <td>
       <a href="https://cloud.google.com/bigquery/">
-        <img src="https://img.shields.io/badge/GCP-Big_Query-informational?style=flat&logo=google-cloud&logoColor=white&color=6e9ff7" alt="Big Query">
+        <img src="https://img.shields.io/badge/Big_Query-informational?style=flat&logo=google-cloud&logoColor=white&color=6e9ff7" alt="Big Query">
       </a>
       <a href="https://cloud.google.com/products/compute">
-        <img src="https://img.shields.io/badge/GCP-Compute_Engine-informational?style=flat&logo=google-cloud&logoColor=white&color=6aa6f8" alt="Compute Engine">
+        <img src="https://img.shields.io/badge/Compute_Engine-informational?style=flat&logo=google-cloud&logoColor=white&color=6aa6f8" alt="Compute Engine">
     </td>
     <td>
       <a href="https://cloud.google.com/storage/">
-        <img src="https://img.shields.io/badge/GCP-Cloud_Storage-informational?style=flat&logo=google-cloud&logoColor=white&color=6aa6f8" alt="Cloud Storage">
+        <img src="https://img.shields.io/badge/Cloud_Storage-informational?style=flat&logo=google-cloud&logoColor=white&color=6aa6f8" alt="Cloud Storage">
       <a href="https://cloud.google.com/sql/">
-        <img src="https://img.shields.io/badge/GCP-Cloud_SQL-informational?style=flat&logo=google-cloud&logoColor=white&color=6aa6f8" alt="Cloud SQL">
+        <img src="https://img.shields.io/badge/Cloud_SQL-informational?style=flat&logo=google-cloud&logoColor=white&color=6aa6f8" alt="Cloud SQL">
       </a>
     </td>
     <td>
       <a href="https://cloud.google.com/scheduler/">
-        <img src="https://img.shields.io/badge/GCP-Cloud_Scheduler-informational?style=flat&logo=google-cloud&logoColor=white&color=6e9ff7" alt="Cloud Scheduler">
+        <img src="https://img.shields.io/badge/Cloud_Scheduler-informational?style=flat&logo=google-cloud&logoColor=white&color=6e9ff7" alt="Cloud Scheduler">
       </a>
       <a href="https://cloud.google.com/pubsub/">
-        <img src="https://img.shields.io/badge/GCP-Pub/Sub-informational?style=flat&logo=google-cloud&logoColor=white&color=6e9ff7" alt="Pub/Sub">
+        <img src="https://img.shields.io/badge/Pub/Sub-informational?style=flat&logo=google-cloud&logoColor=white&color=6e9ff7" alt="Pub/Sub">
       </a>
     </td>
     <td>
       <a href="https://cloud.google.com/iam/">
-        <img src="https://img.shields.io/badge/GCP-IAM-informational?style=flat&logo=google-cloud&logoColor=white&color=6e9ff7" alt="IAM">
+        <img src="https://img.shields.io/badge/IAM-informational?style=flat&logo=google-cloud&logoColor=white&color=6e9ff7" alt="IAM">
       </a>
       <a href="https://cloud.google.com/functions/">
-        <img src="https://img.shields.io/badge/GCP-Cloud_Functions-informational?style=flat&logo=google-cloud&logoColor=white&color=6e9ff7" alt="Cloud Functions">
+        <img src="https://img.shields.io/badge/Cloud_Functions-informational?style=flat&logo=google-cloud&logoColor=white&color=6e9ff7" alt="Cloud Functions">
       </a>
     </td>
   </tr>
