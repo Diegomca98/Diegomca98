@@ -1,4 +1,6 @@
 # Hi there 🤙
+
+<br>
 <div style="text-align: center;">
     <a href="https://www.linkedin.com/in/diego-alberto-enriquez-rodr%C3%ADguez-623481194/">
         <img src="https://img.shields.io/badge/-Diego_Enriquez-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin">
@@ -10,6 +12,7 @@
         <img src="https://img.shields.io/github/followers/Diegomca98?label=Diegomca98&style=social" alt="GitHub">
     </a>
 </div>
+<br>
 
 > Hey! My name is Diego Enríquez, I speak Spanish (Native), English (Advanced), Italian (Intermediate) languages at different levels, I've  been working as an IT specialist since 2018, working from IT support to software development using Python, JS, PHP, SQL and some of their frameworks.
 
