@@ -3,7 +3,7 @@
 <br>
 <div style="text-align: center;">
     <a href="https://www.linkedin.com/in/diego-alberto-enriquez-rodr%C3%ADguez-623481194/">
-        <img src="https://img.shields.io/badge/-Diego_Enriquez-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin">
+        <img src="https://img.shields.io/badge/-Diego_Enriquez-blue?style=social-square&logo=Linkedin&logoColor=white" alt="Linkedin">
     </a>
     <a href="https://www.instagram.com/diegoenriquez45/">
         <img src="https://img.shields.io/badge/Instagram-Follow-9cf?logo=instagram&style=social" alt="Instagram">
@@ -19,31 +19,126 @@
 
 ## 🔧 Technologies & Tools
 
-### Cloud Services 
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google&logoColor=white&color=6aa6f8)
-![Cloud Shell](https://img.shields.io/badge/Cloud-Shell-informational?style=flat&logo=powershell&logoColor=white&color=6aa6f8)
-![Terraform](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=6aa6f8)
-![EC2](https://img.shields.io/badge/Compute-EC2-informational?style=flat&logo=amazon-ec2&logoColor=white&color=6aa6f8)
+### Cloud Providers 
+![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=ec912d)
+![GCP](https://img.shields.io/badge/GCP-informational?style=flat&logo=google&logoColor=white&color=6aa6f8)
+
+### Cloud Services
+<table>
+  <tr>
+    <td>
+      <a href="https://aws.amazon.com/cloudshell/">
+        <img src="https://img.shields.io/badge/AWS-CloudShell-informational?style=flat&logo=powershell&logoColor=white&color=f9ac0a" alt="Cloud Shell">
+      </a>
+      <br>
+      <a href="https://aws.amazon.com/ec2/">
+        <img src="https://img.shields.io/badge/AWS-EC2-informational?style=flat&logo=amazon-ec2&logoColor=white&color=f9ac0a" alt="EC2">
+      </a>
+    </td>
+    <td>
+      <a href="https://aws.amazon.com/iam/">
+        <img src="https://img.shields.io/badge/AWS-IAM-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="IAM">
+      </a>
+      <br>
+      <a href="https://aws.amazon.com/elasticloadbalancing/">
+        <img src="https://img.shields.io/badge/AWS-Load_Balancing-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="Load Balancers">
+      </a>
+    </td>
+    <td>
+      <a href="https://aws.amazon.com/rds/">
+        <img src="https://img.shields.io/badge/AWS-RDS-informational?style=flat&logo=amazon-rds&logoColor=white&color=f9ac0a" alt="RDS">
+      </a>
+      <br>
+      <a href="https://aws.amazon.com/rds/aurora/">
+        <img src="https://img.shields.io/badge/AWS-Aurora-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="Aurora">
+      </a>
+    </td>
+    <td>
+      <a href="https://aws.amazon.com/elasticache/">
+        <img src="https://img.shields.io/badge/AWS-ElastiCache-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="ElastiCache">
+      </a>
+      <br>
+      <a href="https://aws.amazon.com/route53/">
+        <img src="https://img.shields.io/badge/AWS-Route_53-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="Route 53">
+      </a>
+    </td>
+    <td>
+      <a href="https://aws.amazon.com/cloudfront/">
+        <img src="https://img.shields.io/badge/AWS-CloudFront-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="ElastiCache">
+      </a>
+      <br>
+      <a href="https://aws.amazon.com/s3/">
+        <img src="https://img.shields.io/badge/AWS-S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=f9ac0a" alt="S3">
+      </a>
+    </td>
+    <td>
+      <a href="https://aws.amazon.com/global-accelerator/">
+        <img src="https://img.shields.io/badge/AWS-Global_Accelerator-informational?style=flat&logo=amazon-aws&logoColor=white&color=f9ac0a" alt="Global Accelerator">
+      </a>
+      <br>
+    </td>
+  </tr>
+  <tr><!---->
+    <td>
+      <a href="https://cloud.google.com/shell/">
+        <img src="https://img.shields.io/badge/GCP-Shell-informational?style=flat&logo=powershell&logoColor=white&color=6aa6f8" alt="Cloud Shell">
+      </a>
+      <a href="https://cloud.google.com/kubernetes-engine/">
+        <img src="https://img.shields.io/badge/GCP-GKE-informational?style=flat&logo=kubernetes&logoColor=white&color=6e9ff7" alt="GKE">
+      </a>
+    </td>
+    <td>
+      <a href="https://cloud.google.com/bigquery/">
+        <img src="https://img.shields.io/badge/GCP-Big_Query-informational?style=flat&logo=google-cloud&logoColor=white&color=6e9ff7" alt="Big Query">
+      </a>
+      <a href="https://cloud.google.com/products/compute">
+        <img src="https://img.shields.io/badge/GCP-Compute_Engine-informational?style=flat&logo=google-cloud&logoColor=white&color=6aa6f8" alt="Compute Engine">
+    </td>
+    <td>
+      <a href="https://cloud.google.com/storage/">
+        <img src="https://img.shields.io/badge/GCP-Cloud_Storage-informational?style=flat&logo=google-cloud&logoColor=white&color=6aa6f8" alt="Cloud Storage">
+      <a href="https://cloud.google.com/sql/">
+        <img src="https://img.shields.io/badge/GCP-Cloud_SQL-informational?style=flat&logo=google-cloud&logoColor=white&color=6aa6f8" alt="Cloud SQL">
+      </a>
+    </td>
+    <td>
+      <a href="https://cloud.google.com/scheduler/">
+        <img src="https://img.shields.io/badge/GCP-Cloud_Scheduler-informational?style=flat&logo=google-cloud&logoColor=white&color=6e9ff7" alt="Cloud Scheduler">
+      </a>
+      <a href="https://cloud.google.com/pubsub/">
+        <img src="https://img.shields.io/badge/GCP-Pub/Sub-informational?style=flat&logo=google-cloud&logoColor=white&color=6e9ff7" alt="Pub/Sub">
+      </a>
+    </td>
+    <td>
+      <a href="https://cloud.google.com/iam/">
+        <img src="https://img.shields.io/badge/GCP-IAM-informational?style=flat&logo=google-cloud&logoColor=white&color=6e9ff7" alt="IAM">
+      </a>
+      <a href="https://cloud.google.com/functions/">
+        <img src="https://img.shields.io/badge/GCP-Cloud_Functions-informational?style=flat&logo=google-cloud&logoColor=white&color=6e9ff7" alt="Cloud Functions">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![MySQL](https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
-![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
-
-### Frameworks
-![Django](https://img.shields.io/badge/Frwk-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=f7db5d)
+![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
+![Terraform](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=713dad)
+![Django](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=0c4b33)
+![MySQL](https://img.shields.io/badge/MySql-informational?style=flat&logo=mysql&logoColor=white&color=00758f)
+![SQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
 
 ### Tools and Services
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
-![Codespaces](https://img.shields.io/badge/Tools-Codespaces-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
-![VSCode](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio&logoColor=white&color=6aa6f8)
-![Jupyter Notebooks](https://img.shields.io/badge/Tools-Jupyter_Notebooks-informational?style=flat&logo=anaconda&logoColor=white&color=6aa6f8)
+![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=010409)
+![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=1d63ed)
+![Codespaces](https://img.shields.io/badge/Codespaces-informational?style=flat&logo=github&logoColor=white&color=010409)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326de6)
+![Jupyter Notebooks](https://img.shields.io/badge/Jupyter_Notebooks-informational?style=flat&logo=anaconda&logoColor=white&color=f37726)
+![VSCode](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visual-studio&logoColor=white&color=47a8ee)
 
 ### CI/CD
-![Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=6aa6f8)
+![Jenkins](https://img.shields.io/badge/Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=d33833)
 
 ### Libraries
 ![Pandas](https://img.shields.io/badge/Data_Science-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=6aa6f8)
