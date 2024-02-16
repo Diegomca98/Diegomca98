@@ -33,7 +33,7 @@
 
 ### Cloud Providers
 ![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=ec912d)
-![GCP](https://img.shields.io/badge/GCP-informational?style=flat&logo=google&logoColor=white&color=6aa6f8)
+![GCP](https://img.shields.io/badge/GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=6aa6f8)
 
 ### Cloud Services
 <table>
