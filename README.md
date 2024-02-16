@@ -163,11 +163,6 @@
 ![Tensorflow](https://img.shields.io/badge/ML-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8)
 ![NLP Toolkit](https://img.shields.io/badge/ML-NLP_Toolkit-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" /> About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" />
-
-1. Play guitar 2. Read Videogames Go out with friends Go to the gym Train Jiu Jitsu
-
-
 ## 📈 Statistics 📈
 <br>
 <br>
