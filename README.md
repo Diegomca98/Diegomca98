@@ -169,18 +169,14 @@
 
 
 ## 📈 Statistics 📈
-<div style="display: flex; flex-direction: column; ">
-    <div style="width: 100%; display: flex; justify-content: center;">
-        <a href="https://github.com/anuraghazra/github-readme-stats" style="max-width: 100%; ">
+<br>
+<br>
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; flex-direction: row; justify-content: center;">
+        <a href="https://github.com/anuraghazra/github-readme-stats" style="max-width: 50%; margin-right: 10px;">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegomca98" alt="Top Langs" style="max-width: 100%; filter: invert(1);">
         </a>
-    </div>
-</div>
-<br>
-<br>
-<div style="display: flex; flex-direction: column;">
-    <div style="width: 100%; display: flex; justify-content: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Diegomca98&show_icons=true&theme=merko" alt="Diego's GitHub stats" style="max-width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Diegomca98&show_icons=true&theme=merko" alt="Diego's GitHub stats" style="max-width: 50%; margin-left: 10px;">
     </div>
 </div>
 <br>
