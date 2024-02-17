@@ -135,9 +135,9 @@
 
 ### Code
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=f7db5d&color=326998)
+![Django](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=0c4b33)
 ![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=6aa6f8)
 ![Terraform](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=713dad)
-![Django](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=0c4b33)
 ![MySQL](https://img.shields.io/badge/MySql-informational?style=flat&logo=mysql&logoColor=white&color=00758f)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 
@@ -153,13 +153,13 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=d33833)
 
 ### Libraries
-![Pandas](https://img.shields.io/badge/Data_Science-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=6aa6f8)
-![Numpy](https://img.shields.io/badge/Data_Science-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=6aa6f8)
-![Matplotlib](https://img.shields.io/badge/Data_Visualization-Matplotlib-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![Matplotlib](https://img.shields.io/badge/Data_Visualization-Seaborn-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![Scikit-Learn](https://img.shields.io/badge/ML-Scikit-informational?style=flat&logo=scikit-learn&logoColor=white&color=6aa6f8)
-![Tensorflow](https://img.shields.io/badge/ML-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8)
-![NLP Toolkit](https://img.shields.io/badge/ML-NLP_Toolkit-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![Pandas](https://img.shields.io/badge/Data_Manipulation-Pandas-informational?style=flat&logo=pandas&color=326998)
+![Numpy](https://img.shields.io/badge/Data_Manipulation-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=326998)
+![Matplotlib](https://img.shields.io/badge/Data_Visualization-Matplotlib-informational?style=flat&logo=python&logoColor=f7db5d&color=326998)
+![Matplotlib](https://img.shields.io/badge/Data_Visualization-Seaborn-informational?style=flat&logo=python&logoColor=f7db5d&color=326998)
+![Scikit-Learn](https://img.shields.io/badge/ML-Scikit-informational?style=flat&logo=scikit-learn&color=326998)
+![Tensorflow](https://img.shields.io/badge/ML-Tensorflow-informational?style=flat&logo=tensorflow&color=326998)
+![NLP Toolkit](https://img.shields.io/badge/ML-NLP_Toolkit-informational?style=flat&logo=python&logoColor=f7db5d&color=326998)
 
 ## 📈 Statistics 📈
 <br>
