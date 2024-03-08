@@ -5,9 +5,6 @@
     <a href="https://www.linkedin.com/in/diegomca98/">
         <img src="https://img.shields.io/badge/Diego_Enriquez-blue?style=social-square&logo=Linkedin&logoColor=white" alt="Linkedin">
     </a>
-    <a href="https://www.instagram.com/diegoenriquez45/">
-        <img src="https://img.shields.io/badge/Follow-9cf?logo=instagram&style=social" alt="Instagram">
-    </a>
     <a href="https://github.com/Diegomca98">
         <img src="https://img.shields.io/github/followers/Diegomca98?label=Diegomca98&style=social" alt="GitHub">
     </a>
